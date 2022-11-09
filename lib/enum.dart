@@ -5,3 +5,8 @@ enum LocationStatus {
   error,
   unAuth,
 }
+
+enum LocationTimeType{
+  current,
+  last,
+}
